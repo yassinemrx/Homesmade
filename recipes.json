@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "creamy-garlic-chicken-pasta",
+    "title": "Creamy Garlic Chicken Pasta",
+    "category": "Dinner",
+    "time": "30 min",
+    "description": "A comforting weeknight pasta with tender chicken and a silky garlic cream sauce.",
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      "250 g pasta",
+      "300 g boneless chicken breast, diced",
+      "2 tbsp olive oil",
+      "3 garlic cloves, minced",
+      "180 ml heavy cream",
+      "40 g grated Parmesan",
+      "Salt and black pepper",
+      "Fresh parsley"
+    ],
+    "steps": [
+      "Cook pasta in salted boiling water until al dente. Reserve 120 ml pasta water before draining.",
+      "Heat olive oil in a skillet over medium-high heat. Cook chicken until fully cooked, reaching 74\u00b0C (165\u00b0F) internally.",
+      "Reduce heat to medium, add garlic, and stir for 30 seconds.",
+      "Add cream and Parmesan, stirring gently until smooth. Loosen with reserved pasta water as needed.",
+      "Toss with pasta, season, and garnish with parsley. Serve immediately."
+    ]
+  },
+  {
+    "slug": "fluffy-blueberry-pancakes",
+    "title": "Fluffy Blueberry Pancakes",
+    "category": "Breakfast",
+    "time": "25 min",
+    "description": "Soft homemade pancakes bursting with blueberries, perfect for a slow morning.",
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      "190 g all-purpose flour",
+      "2 tbsp sugar",
+      "2 tsp baking powder",
+      "1/4 tsp salt",
+      "240 ml milk",
+      "1 large egg",
+      "2 tbsp melted butter",
+      "120 g blueberries"
+    ],
+    "steps": [
+      "Whisk flour, sugar, baking powder, and salt in a large bowl.",
+      "Whisk milk, egg, and melted butter separately, then fold into dry ingredients just until combined.",
+      "Gently fold in blueberries.",
+      "Heat a lightly greased skillet over medium heat and pour 60 ml batter per pancake.",
+      "Cook until bubbles appear, flip, and cook until golden and cooked through."
+    ]
+  },
+  {
+    "slug": "classic-chocolate-chip-cookies",
+    "title": "Classic Chocolate Chip Cookies",
+    "category": "Desserts",
+    "time": "35 min",
+    "description": "Golden edges, tender centers, and plenty of chocolate chips.",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      "170 g unsalted butter, softened",
+      "150 g brown sugar",
+      "75 g granulated sugar",
+      "1 large egg",
+      "1 tsp vanilla extract",
+      "250 g all-purpose flour",
+      "1/2 tsp baking soda",
+      "1/2 tsp salt",
+      "180 g chocolate chips"
+    ],
+    "steps": [
+      "Preheat oven to 175\u00b0C (350\u00b0F) and line a baking sheet with parchment.",
+      "Cream butter and sugars until fluffy. Mix in egg and vanilla.",
+      "Stir flour, baking soda, and salt together, then combine with wet mixture. Fold in chocolate chips.",
+      "Scoop dough into 2-tablespoon portions, spaced apart on baking sheet.",
+      "Bake 10\u201312 minutes until edges are golden. Cool on tray for 5 minutes before transferring."
+    ]
+  }
+]
